@@ -17,3 +17,7 @@ _: function (markup) {
       .replace(/"/g, '&quot;');
   },
 ```
+
+2. proto RPC typedArray
+
+3. easy_sock 实现 rpc 通信
