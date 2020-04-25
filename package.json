@@ -1,0 +1,20 @@
+{
+  "name": "fast-template-engine",
+  "version": "1.0.0",
+  "description": "基于 es6 模板字符串实现的模板引擎，追求渲染的高效",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfred-Lau/fast-template-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfred-Lau/fast-template-engine/issues"
+  },
+  "homepage": "https://github.com/Alfred-Lau/fast-template-engine#readme"
+}
