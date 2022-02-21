@@ -1,19 +1,31 @@
 # ts-npm-starter
 
-a npm starter based on typescript jest
+tiangong je render for template file,used in fullstack framework
 
 ## Usage
 
--   bin 作为命令行使用
--   main 作为其他包的依赖引入
+```ts
+import tjs from '@tiangongkit/compier'
+const data = {
+    
+}
+
+const template = `
+    
+`
+
+const filePath = 'demo.tjs'
+
+
+tjs.render(template, data)
+tjs.renderFile()
+```
 
 ## Able To
 
--   vscode debug
--   ts-jest support
--   cli & cjs module
--
+
 
 ## TODO
 
--   ci: test
+
+
