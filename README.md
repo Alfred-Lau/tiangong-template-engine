@@ -1,13 +1,19 @@
-# tiangong-template-engine
+# ts-npm-starter
 
-> 基于 es6 模板字符串实现的模板引擎，追求渲染的高效
+a npm starter based on typescript jest
 
-## 目的
-> 为 tiangong-fullstack 天工模板引擎渲染功能
+## Usage
 
-## 初期支持
-- tdk 字段配置
+-   bin 作为命令行使用
+-   main 作为其他包的依赖引入
+
+## Able To
+
+-   vscode debug
+-   ts-jest support
+-   cli & cjs module
+-
 
 ## TODO
-- 相关语法的支持
-- 和体系的集成
+
+-   ci: test
